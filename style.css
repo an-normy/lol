@@ -1,0 +1,11 @@
+body{
+    background-color: lightgray;
+}
+#logo{
+    width:70%;
+    height:70%;
+    border: none;
+}
+.navA {
+    background-color: gray;
+}
