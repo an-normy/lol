@@ -2,10 +2,11 @@ body{
     background-color: lightgray;
 }
 #logo{
-    width:70%;
-    height:70%;
+    width:40%;
+    height:40%;
     border: none;
 }
-.navA {
-    background-color: gray;
+nav {
+    background-color: rgb(24, 24, 24);
+
 }
